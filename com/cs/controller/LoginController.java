@@ -7,4 +7,10 @@ public class LoginController {
         // this is a dummy method
         System.out.println("User logged in successfully");
     }
+
+    public void logout() {
+        // this is a dummy method
+        System.out.println("User logged out successfully");
+    }
+    
 }
